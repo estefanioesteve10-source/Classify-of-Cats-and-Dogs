@@ -19,7 +19,7 @@ O modelo foi capaz de atingir uma precisão elevada no conjunto de validação, 
 
 
 
-## 🛠️ Tecnologias Utilizadas
+##  Tecnologias Utilizadas
 * [Python](https://www.python.org/)
 * [TensorFlow 2.x](https://www.tensorflow.org/)
 * [Keras](https://keras.io/)
